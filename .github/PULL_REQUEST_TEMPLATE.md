@@ -1,6 +1,5 @@
-Filling in these fields will make it easier for us to review:
+**Typings URL:** [E.g. http://github.com/typed-typings/npm-debug]
 
-Typings URL: [E.g. http://github.com/typed-typings/npm-debug]
-Source URL: [E.g. https://github.com/visionmedia/debug]
+**Summary of changes:** [E.g. Updated for minor release!]
 
 Thanks for contributing!
